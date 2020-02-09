@@ -10,7 +10,7 @@ spec:
   tls:
   - hosts:
     - world.thenewcherry.com
-    secretName: tls-secret
+    secretName: tls-secret-world
   rules:
   - host: world.thenewcherry.com
     http:
