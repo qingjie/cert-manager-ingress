@@ -281,3 +281,5 @@ spec:
   741  kubectl describe ingress/world-ingress --namespace ingress-basic
   742  kubectl edit ingress world-ingress --namespace ingress-basic
 ```
+
+![](img1.png)
