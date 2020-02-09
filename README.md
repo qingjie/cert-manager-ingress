@@ -1,5 +1,5 @@
 
-* 1. install nginx-ingress controler, it has external-laodbalacer
+* 1. install nginx-ingress controler, it has external-loadbalacer
 * 2. install certi-manager
 * 3. set in rout53
 * 4. create cluster issuer
