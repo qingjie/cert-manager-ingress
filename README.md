@@ -5,6 +5,7 @@
 * 4. create cluster issuer
 * 5. create certificate or ingress
 
+https://docs.microsoft.com/en-us/azure/aks/ingress-tls
 
 ```
 ------
