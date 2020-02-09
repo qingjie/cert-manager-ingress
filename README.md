@@ -288,7 +288,7 @@ spec:
 ![](img4.png)
 ![](img5.png)
 ![](img6.png)
-check lock
+you can see https lock
 ![](img7.png)
-check lock
+you can see https lock
 ![](img8.png)
