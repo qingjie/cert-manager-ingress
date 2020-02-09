@@ -6,8 +6,6 @@
 * 5. create certificate or ingress
 
 
-* kubectl port-forward svc/azure-vote-front 8080:80
-
 ```
 ------
 # Create a namespace for your ingress resources
@@ -219,3 +217,5 @@ spec:
   selector:
     app: azure-vote-front
 ```
+
+* kubectl port-forward svc/azure-vote-front 8080:80
