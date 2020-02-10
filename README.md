@@ -7,6 +7,8 @@
 
 https://docs.microsoft.com/en-us/azure/aks/ingress-tls
 
+https://aeric.io/post/k8s-metrics-server-installation/
+
 ```
 ------
 # Create a namespace for your ingress resources
